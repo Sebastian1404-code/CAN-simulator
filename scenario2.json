@@ -1,0 +1,117 @@
+{
+  "node_count": 7,
+  "nodes": {
+    "1": [
+      {
+        "time": 10,
+        "dlc": 4,
+        "data": "1010",
+        "crc": 14,
+        "selected_node": 2
+      },
+      {
+        "time": 5,
+        "dlc": 3,
+        "data": "110",
+        "crc": 7,
+        "selected_node": 3
+      }
+    ],
+    "2": [
+      {
+        "time": 6,
+        "dlc": 3,
+        "data": "111",
+        "crc": 0,
+        "selected_node": 1
+      },
+      {
+        "time": 12,
+        "dlc": 4,
+        "data": "1011",
+        "crc": 13,
+        "selected_node": 4
+      }
+    ],
+    "3": [
+      {
+        "time": 4,
+        "dlc": 6,
+        "data": "110101",
+        "crc": 6,
+        "selected_node": 4
+      },
+      {
+        "time": 15,
+        "dlc": 2,
+        "data": "10",
+        "crc": 5,
+        "selected_node": 2
+      }
+    ],
+    "4": [
+      {
+        "time": 1,
+        "dlc": 2,
+        "data": "00",
+        "crc": 15,
+        "selected_node": 5
+      },
+      {
+        "time": 10,
+        "dlc": 3,
+        "data": "101",
+        "crc": 12,
+        "selected_node": 6
+      }
+    ],
+    "5": [
+      {
+        "time": 10,
+        "dlc": 5,
+        "data": "10101",
+        "crc": 9,
+        "selected_node": 6
+      },
+      {
+        "time": 15,
+        "dlc": 4,
+        "data": "1100",
+        "crc": 3,
+        "selected_node": 7
+      }
+    ],
+    "6": [
+      {
+        "time": 6,
+        "dlc": 3,
+        "data": "010",
+        "crc": 4,
+        "selected_node": 7
+      },
+      {
+        "time": 10,
+        "dlc": 2,
+        "data": "01",
+        "crc": 11,
+        "selected_node": 1
+      }
+    ],
+    "7": [
+      {
+        "time": 7,
+        "dlc": 4,
+        "data": "1110",
+        "crc": 8,
+        "selected_node": 3
+      },
+      {
+        "time": 11,
+        "dlc": 6,
+        "data": "101010",
+        "crc": 15,
+        "selected_node": 5
+      }
+    ]
+  }
+}

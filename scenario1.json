@@ -1,0 +1,32 @@
+{
+    "node_count": 3,
+    "nodes": {
+      "1": [
+        {
+          "time": 0.1,
+          "dlc": 4,
+          "data": "1010",
+          "crc": 3,
+          "selected_node": 2
+        },
+        {
+          "time": 1.5,
+          "dlc": 8,
+          "data": "11001100",
+          "crc": 7,
+          "selected_node": 3
+        }
+      ],
+      "2": [
+        {
+          "time": 0.5,
+          "dlc": 3,
+          "data": "111",
+          "crc": 5,
+          "selected_node": 1
+        }
+      ],
+      "3": []
+    }
+  }
+  
